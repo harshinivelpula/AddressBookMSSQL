@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\AddressBookProblemADO\AddressBookSystemTestProject\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\DELL\source\repos\AddressBookProblemADO\AddressBookSystemTestProject\obj\Debug\net6.0\AddressBookSystemTestProject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AddressBookProblemADO\AddressBookSystemTestProject\obj\Debug\net6.0\AddressBookSystemTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AddressBookProblemADO\AddressBookSystemTestProject\obj\Debug\net6.0\AddressBookSystemTestProject.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AddressBookProblemADO\AddressBookSystemTestProject\obj\Debug\net6.0\AddressBookSystemTestProject.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AddressBookProblemADO\AddressBookSystemTestProject\obj\Debug\net6.0\AddressBookSystemTestProject.csproj.CoreCompileInputs.cache
